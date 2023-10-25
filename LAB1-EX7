@@ -1,0 +1,11 @@
+Write a program that:
+1. Computes the volume of the 5 Platonic solids of a given edge. The edge length must be
+assigned to a variable. The program must compute and store in appropriate variables the
+volumes of the 5 solids. The program must then print the name of each solid, followed by the
+edge length and the corresponding volume. Let 𝑎 denote the edge.
+
+2. Assigns the string “Exercise for evaluation” to a variable. The program must then compute
+the string obtained by concatenating all odd characters of the string followed by all even
+characters of the string (pay attention to the fact that in Python indexing starts from 0, while
+in common language odd characters are the first, third and so on). The result must be stored
+in a variable and then printed on screen.
